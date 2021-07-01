@@ -26,7 +26,7 @@ apis:
           img_alt: "GroupDocs.Parser Cloud for cURL"
           image: "/sdk/272x272/groupdocs_parser-for-curl.webp"
           product: "GroupDocs.Parser"
-          platform: "Cloud for cURL"
+          platform: "cURL"
           content: "cURL commands for RESTful parser Cloud API to extract data and document information across wide range of supported popular file formats."
 
         # api_product loop
@@ -82,7 +82,7 @@ apis:
     # api loop
     - api_product:
         # api_product loop
-        - link: "/parser/nodejs"
+        - link: "/parser/nodejs/"
           img_alt: "GroupDocs.Parser Cloud SDK for Node.js"
           image: "/sdk/272x272/groupdocs_parser-for-node.webp"
           product: "GroupDocs.Parser"

@@ -49,7 +49,7 @@ submenu:
               text: "Pricing"
 
     right:
-        link_download: "https://groupdocscloud.github.io/"
+        link_download: "https://github.com/groupdocs-parser-cloud/groupdocs-parser-cloud-python"
         link_learn: "https://docs.groupdocs.cloud/parser/"
         link_buy: "https://purchase.groupdocs.cloud/buy"
 
@@ -88,7 +88,7 @@ overview:
             * PDF Portfolio
             * Files within ZIP archives
             * Text and Markup documents
-            * Microsoft & OpenDocument Formats
+            * Microsoft & OpenDocument
       
       ## TAB TWO ##
       tab_two:
@@ -167,7 +167,7 @@ features:
 
     feature:
       # feature loop
-      - icon: "fas fa-files-o"
+      - icon: "fas fa-file-pdf"
         content: "Parse PDF, word processing documents, spreadsheets & presentations"
 
       # feature loop
@@ -175,15 +175,15 @@ features:
         content: "Parse Microsoft Word, Excel, PowerPoint and OpenDocument template files"
 
       # feature loop
-      - icon: "fas fa-file-text"
+      - icon: "fas fa-file-alt"
         content: "Parse Macro-Enabled document & templates for MS Word, Excel & PowerPoint"
       
       # feature loop
-      - icon: "fas fa-file-text-o"
+      - icon: "fas fa-passport"
         content: "Extract text content from the whole document"
 
       # feature loop
-      - icon: "fas fa-file-image-o"
+      - icon: "fas fa-file-image"
         content: "Extract text and images from specific pages"
 
       # feature loop
@@ -191,15 +191,15 @@ features:
         content: "Extract formatted text by setting extraction mode"
 
       # feature loop
-      - icon: "fas fa-file-archive-o"
+      - icon: "fas fa-file-archive"
         content: "Extract text from the documents in ZIP archives or Emails"
 
       # feature loop
-      - icon: "fas fa-envelope-o"
+      - icon: "fas fa-envelope"
         content: "Retrieve documents from Emails, PDF portfolios & MS Outlook storages"
 
       # feature loop
-      - icon: "fas fa-files-o"
+      - icon: "fas fa-stopwatch-20"
         content: "Get document page count and other information"
     
     more_feature:
@@ -243,43 +243,43 @@ solutions:
         - img_alt: "GroupDocs.Parser Cloud for cURL"
           image: "/sdk/272x272/groupdocs_parser-for-curl.webp"
           product: "GroupDocs.Parser"
-          platform: "Cloud for cURL"
-          link: "/parser/curl"
+          platform: "cURL"
+          link: "/parser/curl/"
 
         # solution loop
         - img_alt: "GroupDocs.Parser Cloud SDK for .NET"
           image: "/sdk/272x272/groupdocs_parser-for-net.webp"
           product: "GroupDocs.Parser"
           platform: ".NET"
-          link: "/parser/net"
+          link: "/parser/net/"
 
         # solution loop
         - img_alt: "GroupDocs.Parser Cloud SDK for Java"
           image: "/sdk/272x272/groupdocs_parser-for-java.webp"
           product: "GroupDocs.Parser"
           platform: "Java"
-          link: "/parser/java"
+          link: "/parser/java/"
 
         # solution loop
         - img_alt: "GroupDocs.Parser Cloud SDK for PHP"
           image: "/sdk/272x272/groupdocs_parser-for-php.webp"
           product: "GroupDocs.Parser"
           platform: "PHP"
-          link: "/parser/php"
+          link: "/parser/php/"
 
         # solution loop
         - img_alt: "GroupDocs.Parser Cloud SDK for Ruby"
           image: "/sdk/272x272/groupdocs_parser-for-ruby.webp"
           product: "GroupDocs.Parser"
           platform: "Ruby"
-          link: "/parser/ruby"
+          link: "/parser/ruby/"
 
         # solution loop
         - img_alt: "GroupDocs.Parser Cloud SDK for Node.js"
           image: "/sdk/272x272/groupdocs_parser-for-node.webp"
           product: "GroupDocs.Parser"
           platform: "Node.js"
-          link: "/parser/nodejs"
+          link: "/parser/nodejs/"
    
 
 ############################# Back to top ###############################
